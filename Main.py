@@ -163,7 +163,7 @@ class WinGUI(Tk):
         # 多核跑分
         multi_core_scores = []
         with ProcessPoolExecutor() as executor:
-            tasks = [executor.submit(complex_calculation, i) for i in range(1, 6000]
+            tasks = [executor.submit(complex_calculation, i) for i in range(1, 6000)]
 
             for i, task in enumerate(as_completed(tasks)):
                 self.tk_progressbar_lpxsazd5["value"] = (i + 1) * 1000 / multiprocessing.cpu_count()
