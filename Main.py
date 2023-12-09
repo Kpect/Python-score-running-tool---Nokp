@@ -17,7 +17,7 @@ from concurrent.futures import as_completed
 
 
 
-print("欢迎使用Nokp,100%使用Python打造
+print("Welcome Nokp Open Source:https://github.com/Kpect/Python-score-running-tool---Nokp")
 def complex_calculation(n):
     result = 0
     for i in range(n):
