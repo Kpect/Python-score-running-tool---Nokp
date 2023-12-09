@@ -1,6 +1,7 @@
 # Nokp Performance Benchmark
 
 Nokp Performance Benchmark is an open-source tool for benchmarking CPU performance. This tool provides both single-core and multi-core performance scores, along with detailed CPU information.
+I spent 4 hours researching it, and it is a semi-finished product, as can be seen from the version name. I am a student with limited time, but I will use my free time to continuously improve and update its algorithms and UI. My energy and intelligence are limited, and I may not be able to come up with better algorithms. Please help me!
 
 ## Introduction
 
